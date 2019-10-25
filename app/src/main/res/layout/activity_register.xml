@@ -36,7 +36,7 @@
         android:hint="@string/hint_password"
         android:inputType="textPassword"
         android:padding="12dp"
-        android:textColorHint="@color/color_text_data"
+        android:textColorHint="@color/color_blue_gray"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -56,7 +56,7 @@
         android:hint="Ketik ulang kata sandi"
         android:inputType="textPassword"
         android:padding="12dp"
-        android:textColorHint="@color/color_text_data"
+        android:textColorHint="@color/color_blue_gray"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -76,7 +76,7 @@
         android:hint="@string/hint_username"
         android:inputType="textEmailAddress"
         android:padding="12dp"
-        android:textColorHint="@color/color_text_data"
+        android:textColorHint="@color/color_blue_gray"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/logoRegister" />
@@ -107,7 +107,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Sudah punya akun"
-            android:textColor="@color/red_main" />
+            android:textColor="@color/color_dark_blue" />
 
         <TextView
             android:id="@+id/toLogin"
@@ -118,7 +118,7 @@
             android:paddingBottom="20dp"
             android:text="Login"
             android:textAlignment="center"
-            android:textColor="@color/red_main"
+            android:textColor="@color/color_dark_blue"
             android:textSize="@dimen/size_text"
             android:textStyle="bold" />
 

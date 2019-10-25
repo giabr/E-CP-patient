@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Clip Patient</string>
+    <string name="hint_username">Nama lengkap atau ID pasien</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="bt_login_text">Login</string>
+    <string name="register_before_text">Belum punya akun?</string>
+    <string name="register_text">Register</string>
+    <string name="text_full_name">Nama Lengkap</string>
+    <string name="hint_password_conf">Konfirmasi Kata Sandi</string>
+    <string name="hint_rumah_sakit">Nama rumah sakit</string>
+</resources>
